@@ -37,19 +37,23 @@ const About = () => {
             </span>
 
             <div className="flex  justify-center gap-3 mt-4 bg-slate-800 p-2 pr-5 w-[75%] rounded-full">
-              <div className="box flex justify-start items-center    ease-in duration-200 hover:scale-125   ">
-                <Image src="/svg/java.svg" width={45}  height={45} alt="" />
+            <div className="box flex justify-start items-center  ease-in duration-200 hover:scale-125    ">
+                <Image src="/svg/reactJS.svg" width={30}  height={30} alt="" />
+              </div>
+              <div className="box flex justify-start items-center     ">
+                <SiJavascript className=" w-8 h-8 text-[#eede4cd6] ease-in duration-200 hover:scale-125 hover:text-[#eede4c] bg-black" />
               </div>
               <div className="box flex justify-start items-center     ">
                 <SiSpringboot className=" w-8 h-8 hover:text-[#4faf45] ease-in duration-200 hover:scale-125 text-[#50af45db] " />
+              </div>
+              <div className="box flex justify-start items-center    ease-in duration-200 hover:scale-125   ">
+                <Image src="/svg/java.svg" width={45}  height={45} alt="" />
               </div>
               <div className="box flex justify-start items-center  ease-in duration-200 hover:scale-125    ">
                 <Image src="/svg/hibernate.svg" width={30}  height={30} alt="" />
               </div>
 
-              <div className="box flex justify-start items-center     ">
-                <SiJavascript className=" w-8 h-8 text-[#eede4cd6] ease-in duration-200 hover:scale-125 hover:text-[#eede4c] bg-black" />
-              </div>
+              
             </div>
           </div>
         </div>
