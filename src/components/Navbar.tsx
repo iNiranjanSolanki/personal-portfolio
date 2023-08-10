@@ -35,7 +35,7 @@ const Navbar = () => {
         <link rel="icon" href="/ninjan_fav.png" />
       </Head>
 
-      <div className="navbar shadow-md flex justify-between  px-2 sm:px-4 h-16 sticky top-0 bg-gradient-to-b to-[#030419] from-black z-50 ">
+      <div className="navbar shadow-md flex justify-between  px-2 sm:px-4 h-16 sticky top-0 bg-gradient-to-b to-[#030419] from-black z-50">
         <div className="hamburger flex justify-center items-center text-3xl md:hidden">
           <CgMenuLeftAlt
             className={`text-white ${

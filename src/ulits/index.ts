@@ -36,9 +36,21 @@ export const Project_data = [
     vhref:"https://theninjan.vercel.app/",
   },
   {
-    project_name:"Add To Cart",
-    src:"/project_img/addcart.png",
-    href:"https://github.com/TheNinjan/Ecom_cart_with_Redux",
-    vhref:"https://ecom-cart-with-redux.vercel.app/",
+    project_name:"NoteTaker",
+    src:"/project_img/notetaker.png",
+    href:"https://github.com/TheNinjan/note-taker",
+    vhref:"https://note-taker-snowy.vercel.app/",
+  },
+  {
+    project_name:"Ecommerce",
+    src:"/project_img/ecommerce.png",
+    href:"https://github.com/TheNinjan/ninja-mart",
+    vhref:"#",
+  },
+  {
+    project_name:"Prompt-Ninja",
+    src:"/project_img/prompt.png",
+    href:"https://github.com/TheNinjan/prompt-ninja",
+    vhref:"https://prompt-ninja.vercel.app/",
   },
 ];
