@@ -53,4 +53,10 @@ export const Project_data = [
     href:"https://github.com/TheNinjan/prompt-ninja",
     vhref:"https://prompt-ninja.vercel.app/",
   },
+  {
+    project_name:"Car-Show-Case",
+    src:"/project_img/carshow.png",
+    href:"https://github.com/TheNinjan/cars-show-case-nextjs",
+    vhref:"https://cars-show-case-nextjs.vercel.app/",
+  },
 ];
