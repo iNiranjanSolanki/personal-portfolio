@@ -59,8 +59,8 @@ const Technologies = () => {
               <span className="text-2xl text-slate-50">CSS</span>
             </div>
             <div className="box flex justify-start items-center gap-3 border border-blue-50 text-white h-16 p-2">
-              <Image src="svg/aws.svg" width={50} height={50} alt="" />
-              <span className="text-2xl text-slate-50">AWS</span>
+              <Image src="svg/nextjs.svg" width={50} height={50} alt="" />
+              <span className="text-2xl text-slate-50">NextJS</span>
             </div>
           </div>
         </div>
