@@ -45,22 +45,20 @@ const Technologies = () => {
 
           <div className="flex flex-col flex-wrap-reverse gap-4 w-[80%] md:w-[40%]">
             <div className="box flex justify-start items-center gap-3 border border-blue-50 text-white h-16 p-2">
-              <SiSpringboot className=" w-12 h-12 text-[#4faf45]" />
-
-              <span className="text-2xl text-slate-50">Spring Boot</span>
+              <Image src="svg/nextjs.svg" width={50} height={50} alt="" />
+              <span className="text-2xl text-slate-50">NextJS</span>
             </div>
             <div className="box flex justify-start items-center gap-3 border border-blue-50 text-white h-16 p-2">
               <SiJavascript className=" w-12 h-12 text-[#eede4c]" />
               <span className="text-2xl text-slate-50">JavaScript</span>
             </div>
-
             <div className="box flex justify-start items-center gap-3 border border-blue-50 text-white h-16 p-2">
               <SiCss3 className=" w-12 h-12 text-[#2c69fa]  " />
-              <span className="text-2xl text-slate-50">CSS</span>
+              <span className="text-2xl text-slate-50">TailwindCSS/HTML</span>
             </div>
             <div className="box flex justify-start items-center gap-3 border border-blue-50 text-white h-16 p-2">
-              <Image src="svg/nextjs.svg" width={50} height={50} alt="" />
-              <span className="text-2xl text-slate-50">NextJS</span>
+              <SiSpringboot className=" w-12 h-12 text-[#4faf45]" />
+              <span className="text-2xl text-slate-50">Spring Boot</span>
             </div>
           </div>
         </div>
