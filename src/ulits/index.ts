@@ -59,4 +59,22 @@ export const Project_data = [
     href:"https://github.com/TheNinjan/cars-show-case-nextjs",
     vhref:"https://cars-show-case-nextjs.vercel.app/",
   },
+  {
+    project_name:"Add to Cart",
+    src:"/project_img/cart.png",
+    href:"https://github.com/TheNinjan/ecom-cart-with-redux",
+    vhref:"https://ecom-cart-with-redux.vercel.app/",
+  },
+  {
+    project_name:"Taxi Go",
+    src:"/project_img/taxi-go.png",
+    href:"https://github.com/TheNinjan/taxi-go",
+    vhref:"#",
+  },
+  {
+    project_name:"Shoping Cart",
+    src:"/project_img/shoping-cart.png",
+    href:"https://github.com/TheNinjan/shoping-cart",
+    vhref:"https://shoping-cart-seven.vercel.app/",
+  },
 ];
