@@ -69,7 +69,7 @@ export const Project_data = [
     project_name:"Taxi Go",
     src:"/project_img/taxi-go.png",
     href:"https://github.com/TheNinjan/taxi-go",
-    vhref:"#",
+    vhref:"https://taxi-go.vercel.app/",
   },
   {
     project_name:"Shoping Cart",
