@@ -77,4 +77,10 @@ export const Project_data = [
     href:"https://github.com/TheNinjan/shoping-cart",
     vhref:"https://shoping-cart-seven.vercel.app/",
   },
+  {
+    project_name:"TaskVista",
+    src:"/project_img/taskvista.png",
+    href:"https://github.com/TheNinjan/task-vista",
+    vhref:"https://task-vista.vercel.app/",
+  },
 ];
