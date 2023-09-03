@@ -30,8 +30,8 @@ const Technologies = () => {
             </div>
 
             <div className="box flex justify-start items-center gap-3 border border-blue-50 text-white h-16  p-2">
-              <Image src="svg/hibernate.svg" width={50} height={50} alt="" />
-              <span className="text-2xl text-slate-50">Hibernate</span>
+              <Image src="svg/typescript.svg" width={50} height={50} alt="" />
+              <span className="text-2xl text-slate-50">TypeScript</span>
             </div>
             <div className="box flex justify-start items-center gap-3 border border-blue-50 text-white h-16 p-2">
               <Image src="svg/mysql.svg" width={50} height={50} alt="" />
@@ -45,7 +45,7 @@ const Technologies = () => {
 
           <div className="flex flex-col flex-wrap-reverse gap-4 w-[80%] md:w-[40%]">
             <div className="box flex justify-start items-center gap-3 border border-blue-50 text-white h-16 p-2">
-              <Image src="svg/nextjs.svg" width={50} height={50} alt="" />
+              <Image src="svg/nextjs.svg" width={50} height={50} alt="" className=""/>
               <span className="text-2xl text-slate-50">NextJS</span>
             </div>
             <div className="box flex justify-start items-center gap-3 border border-blue-50 text-white h-16 p-2">
