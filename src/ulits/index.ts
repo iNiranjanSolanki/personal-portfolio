@@ -83,4 +83,10 @@ export const Project_data = [
     href:"https://github.com/TheNinjan/task-vista",
     vhref:"https://task-vista.vercel.app/",
   },
+  {
+    project_name:"Netflix Generes",
+    src:"/project_img/netflix.png",
+    href:"https://github.com/TheNinjan/netflix",
+    vhref:"https://netflix-vert-chi.vercel.app/",
+  },
 ];
