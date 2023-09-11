@@ -12,24 +12,24 @@ const Navbar = () => {
         <title>The Ninjan</title>
         <meta
           name="description"
-          content="ThNinjan | a professional Backend web developer with Spring boot | Hibernate | Java "
+          content="ThNinjan | Nranjan Solanki | A professional FrontEnd web developer with ReactJS | NextJS | JavaScript |TAilwind CSS | Redux  "
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
         
-        <meta name="subject" content="TheNinjan Portfolio" />
-        <meta name="copyright" content="TheNinjan " />
-        <meta name="abstract" content="TheNinjan " />
-        <meta name="topic" content="TheNinjan  portfolio" />
+        <meta name="subject" content="TheNinjan" />
+        <meta name="copyright" content="TheNinjan" />
+        <meta name="abstract" content="TheNinjan" />
+        <meta name="topic" content="TheNinjan" />
         <meta
           name="summary"
-          content="This is My(TheNinjan's) Portfolio Website"
+          content="ThNinjan | Nranjan Solanki | A professional FrontEnd web developer with ReactJS | NextJS | JavaScript |TAilwind CSS | Redux  "
         />
         <meta name="author" content="TheNinjan" />
         <meta name="designer" content="TheNinjan" />
         <meta name="owner" content="TheNinjan" />
         <meta name="url" content="https://theninjan.vercel.app/" />
-        <meta name="category" content="Fullstack developer | Portfolio" />
+        <meta name="category" content="Web Developer | Portfolio" />
         <meta name="coverage" content="Worldwide" />
         <meta name="distribution" content="Global" />
         <link rel="icon" href="/ninjan_fav.png" />
