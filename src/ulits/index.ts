@@ -89,10 +89,10 @@ export const Project_data = [
     href:"https://github.com/TheNinjan/netflix",
     vhref:"https://netflix-vert-chi.vercel.app/",
   },
-  // {
-  //   project_name:"Amazon Clone",
-  //   src:"/project_img/amazon.png",
-  //   href:"https://github.com/TheNinjan/netflix",
-  //   vhref:"https://netflix-vert-chi.vercel.app/",
-  // },
+  {
+    project_name:"Amazon Clone",
+    src:"/project_img/amazon.png",
+    href:"https://github.com/TheNinjan/next_amazon_clone",
+    vhref:"https://next-amazon-clone-delta.vercel.app/",
+  },
 ];
