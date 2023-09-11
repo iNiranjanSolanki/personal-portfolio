@@ -12,7 +12,7 @@ const Navbar = () => {
         <title>The Ninjan</title>
         <meta
           name="description"
-          content="ThNinjan | Nranjan Solanki | A professional FrontEnd web developer with ReactJS | NextJS | JavaScript |TAilwind CSS | Redux  "
+          content="ThNinjan | Niranjan Solanki | A  FrontEnd Web Developer with ReactJS | NextJS | JavaScript |TAilwind CSS | Redux  "
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
