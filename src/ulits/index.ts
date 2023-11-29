@@ -32,7 +32,7 @@ export const Project_data = [
   {
     project_name:"Personal Portpholio",
     src:"/project_img/theninjan.png",
-    href:"https://github.com/TheNinjan/theninjan-portpholio",
+    href:"https://github.com/TheNinjan/personal-portfolio",
     vhref:"https://theninjan.vercel.app/",
   },
   {
@@ -62,7 +62,7 @@ export const Project_data = [
   {
     project_name:"Add to Cart",
     src:"/project_img/cart.png",
-    href:"https://github.com/TheNinjan/ecom-cart-with-redux",
+    href:"https://github.com/TheNinjan/Ecom_cart_with_Redux",
     vhref:"https://ecom-cart-with-redux.vercel.app/",
   },
   {
@@ -94,5 +94,11 @@ export const Project_data = [
     src:"/project_img/amazon.png",
     href:"https://github.com/TheNinjan/next_amazon_clone",
     vhref:"https://next-amazon-clone-delta.vercel.app/",
+  },
+  {
+    project_name:"Flipkart Clone",
+    src:"/project_img/flipkart.png",
+    href:"https://github.com/TheNinjan/next-flipkart",
+    vhref:"#",
   },
 ];
