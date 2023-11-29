@@ -96,8 +96,8 @@ export const Project_data = [
     vhref:"https://next-amazon-clone-delta.vercel.app/",
   },
   {
-    project_name:"Flipkart Clone",
-    src:"/project_img/flipkart.png",
+    project_name:"Flipkart",
+    src:"/project_img/flipkart1.png",
     href:"https://github.com/TheNinjan/next-flipkart",
     vhref:"#",
   },
