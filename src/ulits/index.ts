@@ -101,4 +101,28 @@ export const Project_data = [
     href:"https://github.com/TheNinjan/next-flipkart",
     vhref:"#",
   },
+  {
+    project_name:"EMI Calculator",
+    src:"/project_img/emi.png",
+    href:"https://github.com/TheNinjan/react-emi-calculator",
+    vhref:"https://react-emi-calculator.vercel.app/",
+  },
+  {
+    project_name:"Todos Application",
+    src:"/project_img/todos.png",
+    href:"https://github.com/TheNinjan/js-todos-app",
+    vhref:"https://js-todos-app.vercel.app/",
+  },
+  {
+    project_name:"Todos Application",
+    src:"/project_img/search.png",
+    href:"https://github.com/TheNinjan/reacr-search-functionality-HOC",
+    vhref:"https://reacr-search-functionality-hoc.vercel.app/",
+  },
+  {
+    project_name:"Todos Application",
+    src:"/project_img/search.png",
+    href:"https://github.com/TheNinjan/reacr-search-functionality-HOC",
+    vhref:"https://reacr-search-functionality-hoc.vercel.app/",
+  },
 ];
