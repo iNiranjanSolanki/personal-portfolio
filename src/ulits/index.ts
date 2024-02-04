@@ -114,15 +114,27 @@ export const Project_data = [
     vhref:"https://js-todos-app.vercel.app/",
   },
   {
-    project_name:"Todos Application",
+    project_name:"Search Using HOC",
     src:"/project_img/search.png",
     href:"https://github.com/TheNinjan/reacr-search-functionality-HOC",
     vhref:"https://reacr-search-functionality-hoc.vercel.app/",
   },
   {
-    project_name:"Todos Application",
-    src:"/project_img/search.png",
-    href:"https://github.com/TheNinjan/reacr-search-functionality-HOC",
-    vhref:"https://reacr-search-functionality-hoc.vercel.app/",
+    project_name:"Calculator",
+    src:"/project_img/cal.png",
+    href:"https://github.com/TheNinjan/react-calculator",
+    vhref:"https://react-calculator-delta-ochre.vercel.app/",
+  },
+  {
+    project_name:"Myntra Clone",
+    src:"/project_img/myntra.png",
+    href:"https://github.com/TheNinjan/react-myntra-clone",
+    vhref:"#",
+  },
+  {
+    project_name:"Restro Landing Page",
+    src:"/project_img/mxpert.png",
+    href:"https://github.com/TheNinjan/task-mxpertz",
+    vhref:"https://task-mxpertz.vercel.app/",
   },
 ];
