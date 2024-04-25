@@ -28,7 +28,7 @@ const About = () => {
             <span className="text-[#5a73fc] font-medium">
               Web Devoloper{" "}
             </span>
-            // eslint-disable-next-line rule-name
+            // eslint-disable-next-line react/jsx-no-comment-textnodes
             <span className="text-slate-300 font-medium">
               {/* Creating dynamic websites and powerful web <br /> applications
               with ReactJs, ExpressJS, NodeJS, NextJS. */}
