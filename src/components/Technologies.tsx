@@ -6,7 +6,9 @@ import {
   SiCss3,
   SiSpringboot,
 } from "react-icons/si";
-
+import { SiRedux } from "react-icons/si";
+import { DiNodejs } from "react-icons/di";
+import { FaGithub } from "react-icons/fa";
 const Technologies = () => {
   return (
     <>
@@ -24,42 +26,69 @@ const Technologies = () => {
 
         <div className="flex justify-center items-center flex-col md:flex-row gap-4 mt-3">
           <div className="flex flex-col flex-wrap-reverse gap-4 w-[80%] md:w-[40%]">
+             {/* MongoDB */}
+             <div className="box flex justify-start items-center gap-3 border border-blue-50 text-white h-16 p-2">
+              <Image src="svg/mongodb.svg" width={50} height={50} alt="MongoDB" />
+              <span className="text-2xl text-slate-50">MongoDB</span>
+            </div>
+            {/* ExpressJS */}
+            <div className="box flex justify-start items-center gap-3 border border-blue-50 text-white h-16 p-2">
+              <Image src="svg/expressjs.svg" width={50} height={50} alt="java" />
+              <span className="text-2xl text-slate-50">ExpressJS</span>
+            </div>
+
+            {/* ReactJS */}
             <div className="box flex justify-start items-center gap-3 border border-blue-50 text-white  h-16 p-2">
             <Image src="svg/reactJS.svg" width={50} height={50} alt="" />
               <span className="text-2xl text-slate-50">RactJS</span>
             </div>
 
+            {/*  NodeJS*/}            
             <div className="box flex justify-start items-center gap-3 border border-blue-50 text-white h-16  p-2">
-              <Image src="svg/typescript.svg" width={50} height={50} alt="" />
-              <span className="text-2xl text-slate-50">TypeScript</span>
+            <DiNodejs  className=" w-12 h-12 text-[#53d051]" />
+              <span className="text-2xl text-slate-50">Node JS</span>
             </div>
+
+            {/* MySQL */}
             <div className="box flex justify-start items-center gap-3 border border-blue-50 text-white h-16 p-2">
               <Image src="svg/mysql.svg" width={50} height={50} alt="" />
               <span className="text-2xl text-slate-50">MySQL</span>
             </div>
-            <div className="box flex justify-start items-center gap-3 border border-blue-50 text-white h-16 p-2">
-              <Image src="svg/java.svg" width={50} height={50} alt="java" />
-              <span className="text-2xl text-slate-50">Java</span>
-            </div>
+            
+            
           </div>
 
           <div className="flex flex-col flex-wrap-reverse gap-4 w-[80%] md:w-[40%]">
+
+            {/* NextJS */}
             <div className="box flex justify-start items-center gap-3 border border-blue-50 text-white h-16 p-2">
               <Image src="svg/nextjs.svg" width={50} height={50} alt="" className=""/>
               <span className="text-2xl text-slate-50">NextJS</span>
             </div>
+
+            {/* ReduxToolkit */}
             <div className="box flex justify-start items-center gap-3 border border-blue-50 text-white h-16 p-2">
-              <SiJavascript className=" w-12 h-12 text-[#eede4c]" />
-              <span className="text-2xl text-slate-50">JavaScript</span>
+              <SiRedux  className=" w-12 h-12 text-[#7e57c2]" />
+              <span className="text-2xl text-slate-50">Redux Toolkit</span>
             </div>
+
+            {/* JAVASCRIPT */}
             <div className="box flex justify-start items-center gap-3 border border-blue-50 text-white h-16 p-2">
-              <SiCss3 className=" w-12 h-12 text-[#2c69fa]  " />
-              <span className="text-2xl text-slate-50">TailwindCSS/HTML</span>
+            <Image src="svg/typescript.svg" width={50} height={50} alt="" className=""/>
+              <span className="text-2xl text-slate-50">TypeScript / JavaScript / HTML</span>
             </div>
+
+            {/* TailwindCSS */}
             <div className="box flex justify-start items-center gap-3 border border-blue-50 text-white h-16 p-2">
-              <SiSpringboot className=" w-12 h-12 text-[#4faf45]" />
-              <span className="text-2xl text-slate-50">Spring Boot</span>
+            <Image src="svg/tailwindcss.svg" width={50} height={50} alt="" className=""/>
+              <span className="text-2xl text-slate-50">TailwindCSS</span>
             </div>
+
+            <div className="box flex justify-start items-center gap-3 border border-blue-50 text-white h-16 p-2">
+              <FaGithub  className=" w-12 h-12" />
+              <span className="text-2xl text-slate-50">GitHub</span>
+            </div>
+            
           </div>
         </div>
       </section>
