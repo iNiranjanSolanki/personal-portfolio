@@ -77,7 +77,7 @@ const SocialIcons = () => {
             }`}
           >
             <a
-              href="#"
+              href="https://drive.google.com/file/d/1u37IAVwxSMePvsodyyOo9abco07pUoJo/view?usp=sharing"
               target="niru"
               className="text-white flex justify-between items-center  w-full"
             >

@@ -1,7 +1,7 @@
 import Image from "next/image";
 import React from "react";
-import { SiJavascript, SiSpringboot } from "react-icons/si";
-
+import { SiJavascript, SiRedux } from "react-icons/si";
+import { DiNodejsSmall } from "react-icons/di";
 const About = () => {
   return (
     <>
@@ -29,29 +29,46 @@ const About = () => {
               Web Devoloper{" "}
             </span>
             <span className="text-slate-300 font-medium">
-              Creating dynamic websites and powerful web <br /> applications,
-              with ReactJs,NextJS ,HTML ,CSS.
+              {"Empowering digital experiences with dynamic websites and robust web applications,<br /> fueled by ReactJS, ExpressJS, NodeJS, and NextJS."}
             </span>
-            <span className="hidden ">
+            <span className="hidden">
               Mastering the Art of Web Development from Front to Back
             </span>
 
             <div className="flex  justify-center gap-3 mt-4 bg-slate-800 p-2 pr-5 w-[75%] rounded-full">
+            {/* mongodb */}
+            <div className="box flex justify-start items-center  ease-in duration-200 hover:scale-125    ">
+                <Image src="/svg/mongodb.svg" width={30}  height={30} alt="" />
+              </div>
+            {/* express */}
+            <div className="box flex justify-start items-center  ease-in duration-200 hover:scale-125    ">
+                <Image src="/svg/expressjs.svg" width={30}  height={30} alt="" />
+              </div>
+              {/* ReactJS */}
             <div className="box flex justify-start items-center  ease-in duration-200 hover:scale-125    ">
                 <Image src="/svg/reactJS.svg" width={30}  height={30} alt="" />
               </div>
+              {/* NodeJS */}
+              <div className="box flex justify-start items-center     ">
+                <DiNodejsSmall className=" w-8 h-8 hover:text-[#4faf45] ease-in duration-200 hover:scale-125 text-[#50af45db] " />
+              </div>
+              {/* NextJS */}
               <div className="box flex justify-start items-center    ease-in duration-200 hover:scale-125   ">
                 <Image src="/svg/nextjs.svg" width={30}  height={30} alt="" className="" />
               </div>
+              {/* Redux */}
+              <div className="box flex justify-start items-center     ">
+                <SiRedux className=" w-8 h-8 hover:text-[#7e57c9] ease-in duration-200 hover:scale-125 text-[#7e57c2] " />
+              </div>
+              {/* JAVASCRIPT */}
               <div className="box flex justify-start items-center     ">
                 <SiJavascript className=" w-8 h-8 text-[#eede4cd6] ease-in duration-200 hover:scale-125 hover:text-[#eede4c] bg-black" />
               </div>
+              {/* Typescript */}
               <div className="box flex justify-start items-center  ease-in duration-200 hover:scale-125    ">
                 <Image src="/svg/typescript.svg" width={30}  height={30} alt="" />
               </div>
-              <div className="box flex justify-start items-center     ">
-                <SiSpringboot className=" w-8 h-8 hover:text-[#4faf45] ease-in duration-200 hover:scale-125 text-[#50af45db] " />
-              </div>
+              
               
               
 
