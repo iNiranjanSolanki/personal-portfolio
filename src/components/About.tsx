@@ -29,7 +29,7 @@ const About = () => {
               Web Devoloper{" "}
             </span>
             <span className="text-slate-300 font-medium">
-              {"Empowering digital experiences with dynamic websites and robust web applications,<br /> fueled by ReactJS, ExpressJS, NodeJS, and NextJS."}
+              {"Empowering digital experiences with dynamic websites and robust web applications, fueled by ReactJS, ExpressJS, NodeJS, and NextJS."}
             </span>
             <span className="hidden">
               Mastering the Art of Web Development from Front to Back
