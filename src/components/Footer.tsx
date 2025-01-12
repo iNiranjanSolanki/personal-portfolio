@@ -9,12 +9,12 @@ const Footer = () => {
             <a className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
               <div className="cursor-pointer bg-gradient-to-r from-[#a50879]  to-[#571029] px-2  rounded-tl-2xl rounded-br-2xl">
                 <span className=" text-2xl text-white  font-bold ">
-                  TheNinjan
+                  Niranjan
                 </span>
               </div>
             </a>
             <p className="text-sm text-slate-200 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">
-              © 2023 TheNinjan -
+              © 2023 -
               <a
                 href="https://theninjan.vercel.app/"
                 className="text-gray-200 ml-1"
@@ -44,7 +44,7 @@ const Footer = () => {
                 </svg>
               </a>
               <a
-                href="https://www.linkedin.com/in/theninjan"
+                href="https://www.linkedin.com/in/iniranjansolanki"
                 target="niru"
                 className="ml-3 text-gray-300"
               >

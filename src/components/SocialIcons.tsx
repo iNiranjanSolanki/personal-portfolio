@@ -38,7 +38,7 @@ const SocialIcons = () => {
             }`}
           >
             <a
-              href="https://www.linkedin.com/in/theninjan/"
+              href="https://www.linkedin.com/in/niranjansolanki/"
               target="niru"
               className="text-white flex justify-between items-center  w-full"
             >
@@ -51,7 +51,7 @@ const SocialIcons = () => {
             }`}
           >
             <a
-              href="https://github.com/TheNinjan"
+              href="https://github.com/iniranjansolanki"
               target="ninju"
               className="text-white flex justify-between items-center  w-full"
             >
@@ -64,7 +64,7 @@ const SocialIcons = () => {
             }`}
           >
             <a
-              href="mailto:theninjanofficial@gmail.com"
+              href="mailto:iniranjansolanki@gmail.com"
               target="niru"
               className="text-white flex justify-between items-center  w-full"
             >
@@ -77,7 +77,7 @@ const SocialIcons = () => {
             }`}
           >
             <a
-              href="https://drive.google.com/file/d/1u37IAVwxSMePvsodyyOo9abco07pUoJo/view?usp=sharing"
+              href="https://drive.google.com/file/d/1bcPsLqN0RGSWU7Ed9_7qQwlhZ-E8I6KH/view?usp=sharing"
               target="niru"
               className="text-white flex justify-between items-center  w-full"
             >

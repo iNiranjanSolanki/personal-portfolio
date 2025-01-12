@@ -9,29 +9,23 @@ const Navbar = () => {
   return (
     <>
       <Head>
-        <title>The Ninjan</title>
-        <meta
-          name="description"
-          content="ThNinjan | Niranjan Solanki | A  FrontEnd Web Developer with ReactJS | NextJS | JavaScript |TAilwind CSS | Redux  "
-        />
+        <title>Niranjan Solanki</title>
+        <meta name="description" content="Niranjan Solanki | MERN Stack Developer | Expert in ReactJS, NextJS, NodeJS, MongoDB, ExpressJS, Tailwind CSS, JavaScript, and Redux. Build scalable web applications and dynamic user interfaces." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-        
-        <meta name="subject" content="TheNinjan" />
-        <meta name="copyright" content="TheNinjan" />
-        <meta name="abstract" content="TheNinjan" />
-        <meta name="topic" content="TheNinjan" />
-        <meta
-          name="summary"
-          content="ThNinjan | Nranjan Solanki | A professional FrontEnd web developer with ReactJS | NextJS | JavaScript |TAilwind CSS | Redux  "
-        />
-        <meta name="author" content="TheNinjan" />
-        <meta name="designer" content="TheNinjan" />
-        <meta name="owner" content="TheNinjan" />
+        <meta name="subject" content="Niranjan Solanki - MERN Stack Developer Portfolio" />
+        <meta name="copyright" content="Niranjan Solanki" />
+        <meta name="abstract" content="Portfolio of Niranjan Solanki, a professional MERN Stack Developer." />
+        <meta name="topic" content="MERN Stack Developer, Portfolio, Niranjan Solanki" />
+        <meta name="summary" content="Niranjan Solanki | MERN Stack Developer specializing in ReactJS, NextJS, NodeJS, MongoDB, ExpressJS, Tailwind CSS, and Redux. Explore projects and services." />
+        <meta name="author" content="Niranjan Solanki" />
+        <meta name="designer" content="Niranjan Solanki" />
+        <meta name="owner" content="Niranjan Solanki" />
         <meta name="url" content="https://theninjan.vercel.app/" />
-        <meta name="category" content="Web Developer | Portfolio" />
+        <meta name="category" content="MERN Stack Developer | Portfolio | Full Stack Development" />
         <meta name="coverage" content="Worldwide" />
         <meta name="distribution" content="Global" />
+
         <link rel="icon" href="/ninjan_fav.png" />
       </Head>
 
@@ -84,7 +78,7 @@ const Navbar = () => {
           <Link to="hero" smooth={true} offset={-200} duration={1000}>
             <div className="cursor-pointer bg-gradient-to-r from-[#b70159] to-[#750e40] px-2  rounded-tl-2xl rounded-br-2xl">
               <span className=" text-3xl text-white  font-bold ">
-                TheNinjan
+                Niranjan
               </span>
             </div>
           </Link>

@@ -1,42 +1,65 @@
-# TheNinjan portfolio
+# Niranjan Solanki - MERN Stack Developer
 
-### with typescript and section componets
+Welcome to my portfolio repository! I am a passionate **MERN Stack Developer** specializing in building dynamic, scalable, and user-friendly web applications. This README provides an overview of my skills, projects, and how to connect with me.
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+---
 
-## Getting Started
+## 🌟 About Me
 
-First, run the development server:
+Hi, I'm **Niranjan Solanki**, a professional MERN Stack Developer with expertise in:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- **Frontend**: ReactJS, NextJS, Tailwind CSS, JavaScript, Redux
+- **Backend**: NodeJS, ExpressJS
+- **Database**: MongoDB
+- **Others**: RESTful APIs, Responsive Design, Version Control (Git)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+I am dedicated to creating efficient and elegant solutions tailored to meet users' needs.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+---
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## 🚀 Live Portfolio
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+**Check out my live portfolio:** [theninjan.vercel.app](https://theninjan.vercel.app/)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+---
 
-## Learn More
+## 🛠️ Skills
 
-To learn more about Next.js, take a look at the following resources:
+### Frontend:
+- ReactJS
+- NextJS
+- JavaScript (ES6+)
+- Tailwind CSS
+- Redux / Redux Toolkit
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Backend:
+- NodeJS
+- ExpressJS
+- MongoDB (NoSQL Database)
+- MYSQL (SQL Database)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Tools:
+- Git & GitHub
+- Vercel (Deployment)
+- Postman (API Testing)
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🌐 Connect with Me
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- **Portfolio**: [theninjan.vercel.app](https://theninjan.vercel.app/)
+- **LinkedIn**: [linkedin.com/in/niranjansolanki](#)
+- **GitHub**: [github.com/iniranjansolanki](#)
+- **Email**: [iniranjansolanki@gmail.com](mailto:iniranjansolanki@gmail.com)
+
+---
+
+## 🤝 Contributions
+
+Feel free to explore my projects and suggest improvements. I welcome collaboration and feedback.
+
+---
+
+### 📄 License
+
+This repository and its contents are licensed under the [MIT License](LICENSE).
